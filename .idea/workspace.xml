@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10645309-a4a6-4972-ae40-f5bd480445bc" name="Changes" comment="" />
+    <list default="true" id="10645309-a4a6-4972-ae40-f5bd480445bc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/hello.php" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732612245910</updated>
-      <workItem from="1732612247252" duration="2138000" />
+      <workItem from="1732612247252" duration="3247000" />
     </task>
     <task id="LOCAL-00001" summary="first test, can be deleted later">
       <created>1732613059653</created>
@@ -74,17 +77,35 @@
       <option name="project" value="LOCAL" />
       <updated>1732613771416</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Wordpress akismet plugin">
+      <created>1732614731893</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732614731893</updated>
+    </task>
+    <task id="LOCAL-00006" summary="all wordpress">
+      <created>1732615130020</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732615130020</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="first test, can be deleted later" />
     <MESSAGE value="first test, can be deleted later test2 on diff branch" />
     <MESSAGE value="clean-up" />
     <MESSAGE value="Wordpress install prep" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wordpress install prep" />
+    <MESSAGE value="Wordpress akismet plugin" />
+    <MESSAGE value="all wordpress" />
+    <option name="LAST_COMMIT_MESSAGE" value="all wordpress" />
   </component>
 </project>
