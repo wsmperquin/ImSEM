@@ -48,6 +48,7 @@
       <updated>1732612245910</updated>
       <workItem from="1732612247252" duration="3784000" />
       <workItem from="1732630126566" duration="629000" />
+      <workItem from="1732726659732" duration="1076000" />
     </task>
     <task id="LOCAL-00001" summary="first test, can be deleted later">
       <created>1732613059653</created>
@@ -98,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1732629877200</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="remove theme 25,24 and 23">
+      <created>1732726751805</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732726751805</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add themes fresno and arielwp">
+      <created>1732726804062</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732726804062</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +129,8 @@
     <MESSAGE value="Wordpress akismet plugin" />
     <MESSAGE value="all wordpress" />
     <MESSAGE value="small install update" />
-    <option name="LAST_COMMIT_MESSAGE" value="small install update" />
+    <MESSAGE value="remove theme 25,24 and 23" />
+    <MESSAGE value="add themes fresno and arielwp" />
+    <option name="LAST_COMMIT_MESSAGE" value="add themes fresno and arielwp" />
   </component>
 </project>
