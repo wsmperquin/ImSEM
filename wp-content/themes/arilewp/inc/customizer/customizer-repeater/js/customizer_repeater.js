@@ -371,21 +371,21 @@ jQuery(document).ready(function () {
             jQuery(this).parent().hide(500, function(){
 				
 				var main_slider_items = jQuery("#customize-control-arilewp_main_slider_content .customizer-repeater-general-control-repeater-container").length 
-				if(main_slider_items < 3){ 
+				if(main_slider_items < 12){
 				  jQuery( "#customize-control-arilewp_slider_upgrade .arilewp-upgrade-pro-message" ).hide();
 				}
 				
 				
 				var theme_info_items = jQuery("#customize-control-arilewp_theme_info_content .customizer-repeater-general-control-repeater-container").length 
-				if(theme_info_items < 4){ 
+				if(theme_info_items < 12){
 				  jQuery( "#customize-control-arilewp_theme_info_upgrade .arilewp-upgrade-pro-message" ).hide();
 				}
 				var project_items = jQuery("#customize-control-arilewp_project_content .customizer-repeater-general-control-repeater-container").length 
-				if(project_items < 5){ 
+				if(project_items < 12){
 				  jQuery( "#customize-control-arilewp_project_upgrade .arilewp-upgrade-pro-message" ).hide(); 
 				}
 				var testimonial_items = jQuery("#customize-control-arilewp_testimonial_content .customizer-repeater-general-control-repeater-container").length 
-				if(testimonial_items < 4){ 
+				if(testimonial_items < 12){
 				   jQuery( "#customize-control-arilewp_testimonial_upgrade .arilewp-upgrade-pro-message" ).hide();  
 				}			
                 jQuery(this).parent().remove();
