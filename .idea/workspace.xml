@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10645309-a4a6-4972-ae40-f5bd480445bc" name="Changes" comment="" />
+    <list default="true" id="10645309-a4a6-4972-ae40-f5bd480445bc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/arilewp/inc/customizer/customizer-repeater/js/customizer_repeater.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/arilewp/inc/customizer/customizer-repeater/js/customizer_repeater.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +49,7 @@
       <updated>1732612245910</updated>
       <workItem from="1732612247252" duration="3784000" />
       <workItem from="1732630126566" duration="629000" />
-      <workItem from="1732726659732" duration="1688000" />
+      <workItem from="1732726659732" duration="2362000" />
     </task>
     <task id="LOCAL-00001" summary="first test, can be deleted later">
       <created>1732613059653</created>
@@ -118,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1732727958088</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="plugin ariel-extra added">
+      <created>1732951102722</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732951102722</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +146,7 @@
     <MESSAGE value="small install update" />
     <MESSAGE value="remove theme 25,24 and 23" />
     <MESSAGE value="add themes fresno and arielwp" />
-    <option name="LAST_COMMIT_MESSAGE" value="add themes fresno and arielwp" />
+    <MESSAGE value="plugin ariel-extra added" />
+    <option name="LAST_COMMIT_MESSAGE" value="plugin ariel-extra added" />
   </component>
 </project>
