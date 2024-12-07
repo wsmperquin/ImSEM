@@ -5,8 +5,8 @@ Template: arilewp
 Author: ThemeArile
 Author URI: https://themearile.com
 Description: Fresno is a professional multipurpose WordPress theme for businesses and large enterprises with pixel perfect design and outstanding functionality. It comes with a dark proficient layout and great color scheme. The theme perfectly suited for business, consultant, finance, corporate, freelancer, agency, business promotion, electrician, industries, education, SEO, construction, fashion, online shop, health & medical, Beauty & spa salons, wedding, photography, gym, cafe, music, architecture, lawyer, restaurant, hotel, blog, magazine, travel agency and many other websites compatible. It has some exotic features like clean code, advanced typography, sticky menu, logo upload, header image, Bootstrap 4 framework, built with SEO in mind, and being Mobile-ready, translation ready (WPML, Polylang) and it's built to be beautiful on all screen sizes. This theme supports the best Elementor page builder to create, edit, and updates page designs as per the requirement. InteriorPress also supports popular free and premium WordPress plugins such as Elementor, Yoast SEO, WooCommerce, Contact Form 7, Jetpack, Google Analytics, and much more. Check the demo of ArileWP Pro https://themearile.com/arilewp-pro-theme/.
-Version: 12.1
-Tested up to: 6.6.1
+Version: 12.2
+Tested up to: 6.7
 Requires PHP: 5.6
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -1028,6 +1028,9 @@ blockquote:before {
 }
 .theme-blog .post .entry-content .wp-block-social-links .wp-social-link a svg path {
   fill: #fff;
+}
+.sidebar .widget .wp-block-group .wp-block-audio {
+	padding: 1.563rem 1.000rem 1.563rem;
 }
 
 /*------------------------------------------------------------
